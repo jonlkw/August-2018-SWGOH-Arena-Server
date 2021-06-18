@@ -1,0 +1,549 @@
+[
+    {
+        "name": "aeschyl",
+        "allycode": 689295693,
+        "usericon": "<:aeschyl:829503076439425085>",
+        "tagidondrop": "508020775597506563"
+    },
+    {
+        "name": "Aleks",
+        "allycode": 268241626,
+        "usericon": ":flag_ru:",
+        "tagidondrop": "414057938689327114"
+    },
+    {
+        "name": "Ankoru",
+        "allycode": 411713637,
+        "usericon": ":flag_ru:",
+        "tagidondrop": "586758347957600277"
+    },
+    {
+        "name": "Ann",
+        "allycode": 175675328,
+        "usericon": ":flag_fr:",
+        "tagidondrop": "597850335733874718"
+    },
+    {
+        "name": "Axasrio",
+        "allycode": 239138192,
+        "usericon": ":flag_ar:",
+        "tagidondrop": "571641055036964864"
+    },
+    {
+        "name": "baghera prime",
+        "allycode": 363882823,
+        "usericon": ":flag_us:",
+        "tagidondrop": "501482907588886538"
+    },
+    {
+        "name": "Baneling",
+        "allycode": 579781342,
+        "usericon": ":flag_ch:",
+        "tagidondrop": "211089188504731648"
+    },
+    {
+        "name": "barbarian11",
+        "allycode": 985849893,
+        "usericon": ":flag_us:",
+        "tagidondrop": "185242053918195712"
+    },
+    {
+        "name": "Barstool hero",
+        "allycode": 222226386,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "Bee",
+        "allycode": 758835736,
+        "usericon": ":flag_us:",
+        "tagidondrop": "521157648557670408"
+    },
+    {
+        "name": "Beubzouze",
+        "allycode": 231539888,
+        "usericon": ":flag_us:",
+        "tagidondrop": "663914421223161856"
+    },
+    {
+        "name": "BlaxicanSkywalker",
+        "allycode": 496743755,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "boltan",
+        "allycode": 911845676,
+        "usericon": ":flag_us:",
+        "tagidondrop": "494568550439059477"
+    },
+    {
+        "name": "Bravan",
+        "allycode": 334432474,
+        "usericon": ":flag_us:",
+        "tagidondrop": "503423144615215104"
+    },
+    {
+        "name": "Cal Kwai",
+        "allycode": 246553693,
+        "usericon": ":flag_us:",
+        "tagidondrop": "627851890599788564"
+    },
+    {
+        "name": "Caroli",
+        "allycode": 588911533,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "Chad",
+        "allycode": 173283847,
+        "usericon": ":flag_us:",
+        "tagidondrop": "223564933403639811"
+    },
+    {
+        "name": "Chappell",
+        "allycode": 758316165,
+        "usericon": ":flag_us:",
+        "tagidondrop": "501837248719880243"
+    },
+    {
+        "name": "Cola Talwar",
+        "allycode": 538284349,
+        "usericon": ":flag_us:",
+        "tagidondrop": "80765419241082880"
+    },
+    {
+        "name": "Commiesmurf",
+        "allycode": 146698183,
+        "usericon": ":flag_us:",
+        "tagidondrop": "330113371309604864"
+    },
+    {
+        "name": "CookedCat",
+        "allycode": 585512175,
+        "usericon": ":flag_au:",
+        "tagidondrop": "492109844564803595"
+    },
+    {
+        "name": "CptArtemi",
+        "allycode": 436664199,
+        "usericon": ":flag_us:",
+        "tagidondrop": "381878280309047307"
+    },
+    {
+        "name": "Dark Seb",
+        "allycode": 728533274,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "Darthzod",
+        "allycode": 479169919,
+        "usericon": ":flag_us:",
+        "tagidondrop": "443138710007971842"
+    },
+    {
+        "name": "DartSer",
+        "allycode": 724154728,
+        "usericon": ":flag_us:",
+        "tagidondrop": "630282799974449153"
+    },
+    {
+        "name": "Dat Webber",
+        "allycode": 292687922,
+        "usericon": ":flag_de:",
+        "tagidondrop": "684804380914089994"
+    },
+    {
+        "name": "DementedPyro",
+        "allycode": 846342296,
+        "usericon": ":flag_us:",
+        "tagidondrop": "305814971303067648",
+        "skip": true
+    },
+    {
+        "name": "Driest",
+        "allycode": 698521362,
+        "usericon": ":flag_us:",
+        "tagidondrop": "516283031900651549"
+    },
+    {
+        "name": "El Duderino",
+        "allycode": 455557634,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "Exar",
+        "allycode": 437625294,
+        "usericon": ":flag_us:",
+        "tagidondrop": "209109971705659393"
+    },
+    {
+        "name": "Fenix",
+        "allycode": 672146334,
+        "usericon": ":flag_ru:"
+    },
+    {
+        "name": "Ficus",
+        "allycode": 283515264,
+        "usericon": ":flag_us:",
+        "tagidondrop": "531585510276071426"
+    },
+    {
+        "name": "FlyTheBlack",
+        "allycode": 856627271,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "galatea",
+        "allycode": 331915759,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "GrovasaurusRex",
+        "allycode": 773466122,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "Inyak SOlomon",
+        "allycode": 972895139,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "Jaime",
+        "allycode": 478349163,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "JonMakkaro",
+        "allycode": 518792574,
+        "usericon": ":flag_ru:",
+        "tagidondrop": "641967222704832512"
+    },
+    {
+        "name": "jonnnnn",
+        "allycode": 494251936,
+        "usericon": "<:jonnnnn:829581695685623829>",
+        "tagidondrop": "220562478910799872"
+    },
+    {
+        "name": "kosmik",
+        "allycode": 344199134,
+        "usericon": ":flag_us:",
+        "tagidondrop": "171148249732743168"
+    },
+    {
+        "name": "Kreepz",
+        "allycode": 184782212,
+        "usericon": ":flag_fr:",
+        "tagidondrop": "381511743903629322"
+    },
+    {
+        "name": "Lastbosskiller",
+        "allycode": 348151691,
+        "usericon": ":flag_us:",
+        "tagidondrop": "268388714265313280"
+    },
+    {
+        "name": "Lex177us",
+        "allycode": 268713796,
+        "usericon": ":flag_ru:",
+        "tagidondrop": "520505422533361665"
+    },
+    {
+        "name": "MAsterkana",
+        "allycode": 411713637,
+        "usericon": ":flag_cn:",
+        "tagidondrop": "561196340118290442"
+    },
+    {
+        "name": "Melek",
+        "allycode": 695838712,
+        "usericon": ":flag_us:",
+        "tagidondrop": "200389207376658433"
+    },
+    {
+        "name": "Merailla",
+        "allycode": 681931499,
+        "usericon": ":flag_cz:",
+        "tagidondrop": "301122261476442114"
+    },
+    {
+        "name": "MightyWizard",
+        "allycode": 475224497,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "Mihas",
+        "allycode": 179686332,
+        "usericon": ":flag_ru:",
+        "tagidondrop": "405427277636042758"
+    },
+    {
+        "name": "Mol Eliza",
+        "allycode": 274446965,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "Mr Hedin",
+        "allycode": 966982538,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "Nijuca",
+        "allycode": 862597724,
+        "usericon": ":flag_fr:",
+        "tagidondrop": "543503776196329472"
+    },
+    {
+        "name": "Ninja Hotabach",
+        "allycode": 678375391,
+        "usericon": ":flag_ru:",
+        "tagidondrop": "575193985878851584"
+    },
+    {
+        "name": "NINJA Vitu6a ",
+        "allycode": 599292579,
+        "usericon": ":flag_ru:",
+        "tagidondrop": "445328875354980352"
+    },
+    {
+        "name": "NotoriousPIP",
+        "allycode": 498688966,
+        "usericon": ":flag_gb:",
+        "tagidondrop": "188428528302293008"
+    },
+    {
+        "name": "Oleg Push",
+        "allycode": 414813732,
+        "usericon": ":flag_ru:",
+        "tagidondrop": "339459035814428682"
+    },
+    {
+        "name": "Petry",
+        "allycode": 226438277,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "Pitcher123in",
+        "allycode": 445119633,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "Pyy",
+        "allycode": 924735228,
+        "usericon": ":flag_fr:",
+        "tagidondrop": "514895671774412832"
+    },
+    {
+        "name": "quizatsar",
+        "allycode": 473119471,
+        "usericon": ":flag_fr:",
+        "tagidondrop": "486549976869109770"
+    },
+    {
+        "name": "R2D2",
+        "allycode": 741526999,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "Rachira",
+        "allycode": 856481744,
+        "usericon": ":ghost: ",
+        "tagidondrop": "252473786530660363"
+    },
+    {
+        "name": "Rhil Margos",
+        "allycode": 131246136,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "RoninPro",
+        "allycode": 683287668,
+        "usericon": ":flag_se:",
+        "tagidondrop": "496688689728978954"
+    },
+    {
+        "name": "Ryan",
+        "allycode": 581884894,
+        "usericon": ":flag_us:",
+        "tagidondrop": "168393915152465920"
+    },
+    {
+        "name": "SamAccountX",
+        "allycode": 419894616,
+        "usericon": ":flag_us:",
+        "tagidondrop": "402296276617527306"
+    },
+    {
+        "name": "Scof1ld",
+        "allycode": 597271922,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "Scumpuppy",
+        "allycode": 251744416,
+        "usericon": ":flag_us:",
+        "tagidondrop": "515228033741881345"
+    },
+    {
+        "name": "Sean",
+        "allycode": 935251799,
+        "usericon": ":flag_jp:",
+        "tagidondrop": "814022836289142794"
+    },
+    {
+        "name": "senseishnall",
+        "allycode": 967191238,
+        "usericon": ":military_helmet: ",
+        "tagidondrop": "78437782824955904"
+    },
+    {
+        "name": "Shoaxhell",
+        "allycode": 869841883,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "Shun",
+        "allycode": 139625589,
+        "usericon": ":flag_us:",
+        "tagidondrop": "211267772209037313"
+    },
+    {
+        "name": "SilentAdept",
+        "allycode": 815632884,
+        "usericon": ":flag_us:",
+        "tagidondrop": "201784389196054528"
+    },
+    {
+        "name": "soyer",
+        "allycode": 165928814,
+        "usericon": ":flag_pl:",
+        "tagidondrop": "580129470912921601"
+    },
+    {
+        "name": "srawrats",
+        "allycode": 619652963,
+        "usericon": ":flag_sg:",
+        "tagidondrop": "552010578030493747"
+    },
+    {
+        "name": "Sweetbread",
+        "allycode": 954159191,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "Swood",
+        "allycode": 515587979,
+        "usericon": ":skull_crossbones:",
+        "skip": true
+    },
+    {
+        "name": "Tarte Tatin",
+        "allycode": 423918762,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "The Chosen One",
+        "allycode": 547866255,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "TheAshtonMeyer",
+        "allycode": 749192223,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "TheOmega",
+        "allycode": 786272278,
+        "usericon": ":flag_us:",
+        "tagidondrop": "486648865668333617",
+        "skip": true
+    },
+    {
+        "name": "Thorvardr",
+        "allycode": 286764561,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "Thyline",
+        "allycode": 854515216,
+        "usericon": ":flag_fr:",
+        "tagidondrop": "227174258856558597"
+    },
+    {
+        "name": "TJ",
+        "allycode": 842884695,
+        "usericon": ":flag_de:",
+        "tagidondrop": "525099934777868291"
+    },
+    {
+        "name": "Tsun Tsuku",
+        "allycode": 743326267,
+        "usericon": ":flag_jp:",
+        "tagidondrop": "615488816949493790"
+    },
+    {
+        "name": "VortexdeaD",
+        "allycode": 564384536,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "wake8tor",
+        "allycode": 763555272,
+        "usericon": ":flag_us:",
+        "tagidondrop": "463806919480573982"
+    },
+    {
+        "name": "Wormio",
+        "allycode": 834948522,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "Yalec",
+        "allycode": 282395721,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "Youenjoymysith",
+        "allycode": 132824237,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "Zalish",
+        "allycode": 853837993,
+        "usericon": ":flag_ru:",
+        "tagidondrop": "369528403809796097"
+    },
+    {
+        "name": "Zan Raider",
+        "allycode": 531824636,
+        "usericon": ":flag_us:",
+        "tagidondrop": "328185990365708288"
+    },
+    {
+        "name": "zeratul",
+        "allycode": 614997739,
+        "usericon": ":flag_us:",
+        "tagidondrop": "167056387539599361"
+    },
+    {
+        "name": "zpshihoz",
+        "allycode": 741617816,
+        "usericon": ":flag_ru:",
+        "tagidondrop": "520545332191428608"
+    },
+    {
+        "name": "Ленин (Lenin)",
+        "allycode": 925895822,
+        "usericon": ":flag_ru:",
+        "tagidondrop": "564401925584322582"
+    },
+    {
+        "name": "Экхеллер",
+        "allycode": 661458284,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "群体屏蔽敌法吃食点金卡尔喝鸟",
+        "allycode": 192933617,
+        "usericon": ":skull_crossbones:"
+    }
+]
