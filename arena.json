@@ -129,6 +129,11 @@
         "tagidondrop": "381878280309047307"
     },
     {
+        "name": "Curtislowe",
+        "allycode": 124231296,
+        "usericon": ":skull_crossbones:"
+    },
+    {
         "name": "Dark Seb",
         "allycode": 728533274,
         "usericon": ":skull_crossbones:"
@@ -150,13 +155,6 @@
         "allycode": 292687922,
         "usericon": ":flag_de:",
         "tagidondrop": "684804380914089994"
-    },
-    {
-        "name": "DementedPyro",
-        "allycode": 846342296,
-        "usericon": ":flag_us:",
-        "tagidondrop": "305814971303067648",
-        "skip": true
     },
     {
         "name": "Driest",
@@ -197,6 +195,11 @@
         "usericon": ":skull_crossbones:"
     },
     {
+        "name": "Gigs",
+        "allycode": 793881413,
+        "usericon": ":skull_crossbones:"
+    },
+    {
         "name": "GrovasaurusRex",
         "allycode": 773466122,
         "usericon": ":skull_crossbones:"
@@ -222,12 +225,6 @@
         "allycode": 494251936,
         "usericon": "<:jonnnnn:829581695685623829>",
         "tagidondrop": "220562478910799872"
-    },
-    {
-        "name": "kosmik",
-        "allycode": 344199134,
-        "usericon": ":flag_us:",
-        "tagidondrop": "171148249732743168"
     },
     {
         "name": "Kreepz",
@@ -266,20 +263,10 @@
         "tagidondrop": "301122261476442114"
     },
     {
-        "name": "MightyWizard",
-        "allycode": 475224497,
-        "usericon": ":skull_crossbones:"
-    },
-    {
         "name": "Mihas",
         "allycode": 179686332,
         "usericon": ":flag_ru:",
         "tagidondrop": "405427277636042758"
-    },
-    {
-        "name": "Mol Eliza",
-        "allycode": 274446965,
-        "usericon": ":skull_crossbones:"
     },
     {
         "name": "Mr Hedin",
@@ -315,11 +302,6 @@
         "allycode": 414813732,
         "usericon": ":flag_ru:",
         "tagidondrop": "339459035814428682"
-    },
-    {
-        "name": "Petry",
-        "allycode": 226438277,
-        "usericon": ":skull_crossbones:"
     },
     {
         "name": "Pitcher123in",
@@ -446,6 +428,11 @@
         "usericon": ":skull_crossbones:"
     },
     {
+        "name": "The Dark Council",
+        "allycode": 567857751,
+        "usericon": ":skull_crossbones:"
+    },
+    {
         "name": "TheAshtonMeyer",
         "allycode": 749192223,
         "usericon": ":skull_crossbones:"
@@ -497,6 +484,16 @@
         "usericon": ":skull_crossbones:"
     },
     {
+        "name": "Wrath0God",
+        "allycode": 529798566,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "XrevanX",
+        "allycode": 651146183,
+        "usericon": ":skull_crossbones:"
+    },
+    {
         "name": "Yalec",
         "allycode": 282395721,
         "usericon": ":skull_crossbones:"
@@ -544,26 +541,6 @@
     {
         "name": "群体屏蔽敌法吃食点金卡尔喝鸟",
         "allycode": 192933617,
-        "usericon": ":skull_crossbones:"
-    },
-    {
-        "name": "XrevanX",
-        "allycode": 651146183,
-        "usericon": ":skull_crossbones:"
-    },
-    {
-        "name": "Wrath0God",
-        "allycode": 529798566,
-        "usericon": ":skull_crossbones:"
-    },
-    {
-        "name": "The Dark Council",
-        "allycode": 567857751,
-        "usericon": ":skull_crossbones:"
-    },
-    {
-        "name": "Curtislowe",
-        "allycode": 124231296,
         "usericon": ":skull_crossbones:"
     }
 ]
