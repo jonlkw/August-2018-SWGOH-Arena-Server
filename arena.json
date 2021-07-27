@@ -157,11 +157,6 @@
         "tagidondrop": "684804380914089994"
     },
     {
-        "name": "Demons of Razgriz",
-        "allycode": 654451176,
-        "usericon": ":skull_crossbones:"
-    },
-    {
         "name": "Driest",
         "allycode": 698521362,
         "usericon": ":flag_us:",
@@ -546,6 +541,22 @@
     {
         "name": "群体屏蔽敌法吃食点金卡尔喝鸟",
         "allycode": 192933617,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "Demons of Razgriz",
+        "allycode": 654451176,
+        "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "Kynetic",
+        "allycode": 267536686,
+        "usericon": ":skull_crossbones:",
+        "undefined": "ng aiimad"
+    },
+    {
+        "name": "NG AIIMAD",
+        "allycode": 112773492,
         "usericon": ":skull_crossbones:"
     }
 ]
