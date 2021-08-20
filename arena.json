@@ -573,5 +573,10 @@
         "name": "Kaldeamon",
         "allycode": 283619733,
         "usericon": ":skull_crossbones:"
+    },
+    {
+        "name": "Me",
+        "allycode": 282951537,
+        "usericon": ":flag_us:"
     }
 ]
