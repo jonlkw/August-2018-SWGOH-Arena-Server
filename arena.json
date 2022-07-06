@@ -42,12 +42,6 @@
         "tagidondrop": 211089188504731000
     },
     {
-        "name": "barbarian11",
-        "allycode": 985849893,
-        "usericon": ":flag_us:",
-        "tagidondrop": 185242053918195000
-    },
-    {
         "name": "Barstool hero",
         "allycode": 222226386,
         "usericon": ":skull_crossbones:"
@@ -93,6 +87,12 @@
         "usericon": ":skull_crossbones:"
     },
     {
+        "name": "CertifiedRG",
+        "comment": "XHAL",
+        "allycode": 971126753,
+        "usericon": ":flag_white:"
+    },
+    {
         "name": "Chad",
         "allycode": 173283847,
         "usericon": ":flag_us:",
@@ -105,12 +105,6 @@
         "tagidondrop": 501837248719880000
     },
     {
-        "name": "Cola Talwar",
-        "allycode": 538284349,
-        "usericon": ":flag_us:",
-        "tagidondrop": 80765419241082800
-    },
-    {
         "name": "Commiesmurf",
         "allycode": 146698183,
         "usericon": ":flag_us:",
@@ -121,12 +115,6 @@
         "allycode": 585512175,
         "usericon": ":flag_au:",
         "tagidondrop": 492109844564803000
-    },
-    {
-        "name": "CptArtemi",
-        "allycode": 436664199,
-        "usericon": ":flag_us:",
-        "tagidondrop": 381878280309047000
     },
     {
         "name": "Criminal Queso",
@@ -219,12 +207,6 @@
         "usericon": ":skull_crossbones:"
     },
     {
-        "name": "Ficus",
-        "allycode": 283515264,
-        "usericon": ":flag_us:",
-        "tagidondrop": 531585510276071000
-    },
-    {
         "name": "FlyTheBlack",
         "allycode": 856627271,
         "usericon": ":skull_crossbones:"
@@ -235,18 +217,8 @@
         "usericon": ":skull_crossbones:"
     },
     {
-        "name": "Gigs",
-        "allycode": 793881413,
-        "usericon": ":skull_crossbones:"
-    },
-    {
         "name": "GrovasaurusRex",
         "allycode": 773466122,
-        "usericon": ":skull_crossbones:"
-    },
-    {
-        "name": "Inyak SOlomon",
-        "allycode": 972895139,
         "usericon": ":skull_crossbones:"
     },
     {
@@ -283,11 +255,6 @@
         "tagidondrop": 381511743903629000
     },
     {
-        "name": "Kynetic",
-        "allycode": 267536686,
-        "usericon": ":skull_crossbones:"
-    },
-    {
         "name": "Lasod Zur'lov",
         "allycode": 212765237,
         "usericon": ":flag_us:"
@@ -302,12 +269,6 @@
         "name": "Lemroy",
         "allycode": 577518417,
         "usericon": ":skull_crossbones:"
-    },
-    {
-        "name": "Lex177us",
-        "allycode": 268713796,
-        "usericon": ":flag_ru:",
-        "tagidondrop": 520505422533361000
     },
     {
         "name": "Likwit42",
@@ -335,12 +296,6 @@
         "allycode": 695838712,
         "usericon": ":flag_us:",
         "tagidondrop": 200389207376658000
-    },
-    {
-        "name": "Merailla",
-        "allycode": 681931499,
-        "usericon": ":flag_cz:",
-        "tagidondrop": 301122261476442000
     },
     {
         "name": "Mihas",
@@ -386,18 +341,6 @@
         "tagidondrop": 575193985878851000
     },
     {
-        "name": "NINJA Vitu6a",
-        "allycode": 599292579,
-        "usericon": ":flag_ru:",
-        "tagidondrop": 445328875354980000
-    },
-    {
-        "name": "NotoriousPIP",
-        "allycode": 498688966,
-        "usericon": ":flag_gb:",
-        "tagidondrop": 188428528302293000
-    },
-    {
         "name": "Oleg Push",
         "allycode": 414813732,
         "usericon": ":flag_ru:",
@@ -417,12 +360,6 @@
         "name": "Pitcher123in",
         "allycode": 445119633,
         "usericon": ":skull_crossbones:"
-    },
-    {
-        "name": "Pyy",
-        "allycode": 924735228,
-        "usericon": ":flag_fr:",
-        "tagidondrop": 514895671774412000
     },
     {
         "name": "QuinnyVos",
@@ -481,12 +418,6 @@
         "tagidondrop": 515228033741881000
     },
     {
-        "name": "Sean",
-        "allycode": 935251799,
-        "usericon": ":flag_jp:",
-        "tagidondrop": 814022836289142000
-    },
-    {
         "name": "senseishnall",
         "allycode": 967191238,
         "usericon": ":military_helmet:",
@@ -509,12 +440,6 @@
         "usericon": ":skull_crossbones:"
     },
     {
-        "name": "SilentAdept",
-        "allycode": 815632884,
-        "usericon": ":flag_us:",
-        "tagidondrop": 201784389196054000
-    },
-    {
         "name": "Skobar",
         "allycode": 473425518,
         "usericon": ":skull_crossbones:"
@@ -531,31 +456,9 @@
         "usericon": ":skull_crossbones:"
     },
     {
-        "name": "srawrats",
-        "allycode": 619652963,
-        "usericon": ":flag_sg:",
-        "tagidondrop": 552010578030493000
-    },
-    {
-        "name": "Sweetbread",
-        "allycode": 954159191,
-        "usericon": ":skull_crossbones:"
-    },
-    {
-        "name": "Swood",
-        "allycode": 515587979,
-        "usericon": ":skull_crossbones:",
-        "skip": true
-    },
-    {
         "name": "Tarte Tatin",
         "allycode": 423918762,
         "usericon": ":flag_white:"
-    },
-    {
-        "name": "The Chosen One",
-        "allycode": 547866255,
-        "usericon": ":skull_crossbones:"
     },
     {
         "name": "The Dark Council",
@@ -573,34 +476,14 @@
         "usericon": ":skull_crossbones:"
     },
     {
-        "name": "TheOmega",
-        "allycode": 786272278,
-        "usericon": ":flag_us:",
-        "tagidondrop": 486648865668333000,
-        "skip": true
-    },
-    {
         "name": "Thorvardr",
         "allycode": 286764561,
         "usericon": ":skull_crossbones:"
     },
     {
-        "name": "Thyline",
-        "allycode": 854515216,
-        "usericon": ":flag_fr:",
-        "tagidondrop": 227174258856558000
-    },
-    {
-        "name": "TJ",
-        "allycode": 842884695,
-        "usericon": ":flag_de:",
-        "tagidondrop": 525099934777868000
-    },
-    {
-        "name": "Tsun Tsuku",
-        "allycode": 743326267,
-        "usericon": ":flag_jp:",
-        "tagidondrop": 615488816949493000
+        "name": "Ultras Atrian",
+        "allycode": 798842653,
+        "usericon": ":skull_crossbones:"
     },
     {
         "name": "VortexdeaD",
@@ -608,10 +491,9 @@
         "usericon": ":skull_crossbones:"
     },
     {
-        "name": "wake8tor",
-        "allycode": 763555272,
-        "usericon": ":flag_us:",
-        "tagidondrop": 463806919480573000
+        "name": "Wilson",
+        "allycode": 969549984,
+        "usericon": ":skull_crossbones:"
     },
     {
         "name": "Wormio",
@@ -634,6 +516,11 @@
         "usericon": ":skull_crossbones:"
     },
     {
+        "name": "Yakov",
+        "allycode": 483189566,
+        "usericon": ":skull_crossbones:"
+    },
+    {
         "name": "Yalec",
         "allycode": 282395721,
         "usericon": ":flag_fr:"
@@ -650,12 +537,6 @@
         "tagidondrop": 369528403809796000
     },
     {
-        "name": "Zan Raider",
-        "allycode": 531824636,
-        "usericon": ":flag_us:",
-        "tagidondrop": 328185990365708000
-    },
-    {
         "name": "zeratul",
         "allycode": 614997739,
         "usericon": ":flag_us:",
@@ -667,10 +548,9 @@
         "usericon": ":flag_ru:"
     },
     {
-        "name": "zpshihoz",
-        "allycode": 741617816,
-        "usericon": ":flag_ru:",
-        "tagidondrop": 520545332191428000
+        "name": "АБТ Barsuk",
+        "allycode": 934941572,
+        "usericon": ":skull_crossbones:"
     },
     {
         "name": "Ленин (Lenin)",
@@ -687,11 +567,6 @@
         "name": "Экхеллер",
         "allycode": 661458284,
         "usericon": ":flag_ru:"
-    },
-    {
-        "name": "スターデストロイヤー",
-        "allycode": 453499485,
-        "usericon": ":flag_white:"
     },
     {
         "name": "群体屏蔽敌法吃食点金卡尔喝鸟",
